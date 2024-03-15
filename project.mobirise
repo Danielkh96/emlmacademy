@@ -55,7 +55,7 @@
     "gdpr": false,
     "uniqCompNum": 29,
     "versionPublish": "5.9.13",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "部落格1.html": {
